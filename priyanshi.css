@@ -1,0 +1,264 @@
+     body 
+    {
+		margin: 0px;
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+			
+	ul
+    {
+	    background: rgb(214, 234, 248);
+		padding: 20px;
+	}
+	ul li
+    {
+	    display: inline-block;
+		padding: 9px;
+		margin-bottom: -10px;
+		margin-top: 10px;
+	}
+    li a
+    {
+		text-decoration: solid;
+		text-transform: uppercase;
+		font-size: 25px;
+		color: rgb(0, 0, 0)
+		position: relative; 
+   }
+   #name h1
+	{
+		margin-right: 1220px;
+		color: #020a11 ;
+		margin-top: -40px;
+	}
+    .home
+	{
+		background:url(1.jpg)no-repeat;
+		height: 700px;
+		margin-top: -15px;
+		width: 100%;
+		position: relative;
+	}
+    #home h1
+			{
+				font-size: 50px;
+				margin-left: 600px;
+				color: rgb(1, 5, 9);
+				margin-top :10px;
+            }	
+    #home-content h1
+    {
+        font-size: 70px;
+        margin-top: 80px;
+    } 
+    #home-content h2  
+    {
+        font-size: 40px;
+        color: rgb(10, 1, 103);
+        margin-left: 60px;
+        margin-top: -20px;
+    } 
+    #home-content h3
+    {
+       margin-left: 80px;
+       font-size: 30px;
+    }  
+    .about
+	{	
+    	background:rgb(227, 232, 234) ;
+		height: 770px;
+		margin-top: -30px;
+		margin-bottom: -90px;
+	}
+    #about h1
+			{
+				font-size: 55px;
+				margin-left: 700px;
+				color: rgb(1, 5, 9);
+				margin-top :30px;
+            }	
+    #img1 img
+    {
+        height: 760px;
+        width:480px;
+        margin-top:-110px;
+        box-shadow: 10px 10px 10px black;
+    }
+	#about-myself h2
+			{
+				margin-top: -430px;
+				margin-left: 880px;
+				font-size: 27px;
+				margin-right: 50px;
+			}
+			#about-myself h3
+			{
+				margin-top: -49px;
+				margin-left: 1090px;
+				font-size: 20px;
+				margin-right: 70px;
+				font-family:monospace;
+			}
+    .hobbies
+			{
+				background:rgb(211, 220, 223) ;
+				height: 770px;
+				margin-top: 90px;
+			
+			}
+    #hobbies h1
+			{
+				font-size: 55px;
+				margin-left: 600px;
+				color: rgb(1, 5, 9);
+				margin-top :30px;
+            }	
+            #img2 img
+			{
+				height: 300px;
+				width:300px;
+				margin-top: 120px;
+				margin-left: 50px;
+				border-radius: 20px;
+				box-shadow: 10px 10px 10px black;
+			}  
+            #img3 img
+			{
+				height: 300px;
+				width:300px;
+				margin-top: -290px;
+				margin-left: 550px;
+				border-radius: 20px;
+                box-shadow: 10px 10px 10px black;	
+			}
+            #img4 img
+			{
+				height: 300px;
+				width:300px;
+				margin-top: -300px;
+				margin-left: 1100px;
+				border-radius: 20px;
+                box-shadow: 10px 10px 10px black;
+			}   
+            #travell h1
+			{
+				margin-top: -160px;
+				margin-left: 105px;
+			}
+			#dance h1
+			{
+			    margin-top: -50px;
+				margin-left: 650px;	
+			}
+			#play  h1
+			{
+				margin-top: -50px;
+				margin-left: 1140px;
+			}   
+
+			.education-section
+			{
+				margin-top: 130px;
+				background:rgb(198, 199, 199) ;
+				margin-top: 20px;
+			}
+			.education-section h1
+			{
+				font-size: 55px;
+				margin-left: 600px;
+				color: rgb(1, 5, 9);
+			}
+			  
+			  .education-cards {
+				display: flex;
+				justify-content: center;
+				gap: 200px;
+				margin-top: 100px;
+				padding-bottom: 100px;
+			  }
+			  
+			  .card {
+				background-color: #f1eaea;
+				padding: 10px;
+				border: 2px solid #ffa500;
+				border-radius: 10px;
+				width: 250px;
+				text-align: left;
+				margin-top: -10px;
+			  }
+			  
+			  .card h2
+			   {
+				margin-bottom: 10px;
+				color: #ffa500;
+				font-size: 30px;
+			  }
+              .card p
+			   {
+				margin-bottom: 10px;
+				color: #080808;
+				font-size: 20px;
+			  }
+			  .contact
+			  {
+				  background:rgb(207, 228, 244);
+				  height: 730px;
+				  margin-top: -10px;
+			  }
+			  
+			  #contact-me
+			  {
+				  margin-left: 610px;
+				  font-size: 50px;
+				  margin-top: -70px;
+				 
+			  }
+			  #form form
+			  {
+				  margin-left: 1080px;
+				  margin-top: -400px;
+			  }
+			  #form form button
+			  {
+				  margin-left: 80px;
+				  margin-top: 30px;
+				  font-size: 20px;
+				  color: #050202;
+				  background-color: rgb(227, 227, 227);
+				  border-radius: 10px;
+			  }
+			  #img5 img
+			  {
+				  margin-top: 60px;
+				  margin-left: 1000px;
+				  height: 450px;
+				  width: 450px;
+				  border: 5px solid black;
+			  }
+			  #map 
+			  {
+				  margin-top: -450px;
+				  border: 3px #050202;
+				  margin-left: 40px;
+			  
+			  }
+			  #map iframe
+			  {
+				  height: 450px;
+				  width: 450px;
+				  border: 5px solid black;
+			  }
+			  .icons .fa-brands
+			{
+                  color: black;
+				  font-size: 40px;
+     		}
+			.icons
+			{
+				display: flex;
+				gap: 40px;
+				align-items: center;
+				justify-content: center;
+
+			}
+			
